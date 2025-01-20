@@ -54,8 +54,9 @@ We’d love to connect with fellow developers and creative minds. Feel free to:
 
 ---
 
-## 📜 License  
-This repository is licensed under the **MIT License**. Feel free to use, modify, and distribute with proper attribution.  
+## 📜 License
+This repository is licensed under the [MIT License](./LICENSE).  
+Feel free to use, modify, and distribute with proper attribution. 
 
 ---
 
